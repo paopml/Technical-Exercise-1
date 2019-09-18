@@ -24,6 +24,9 @@ UI Test Automation Exercise script can be found in ..\wdio-test\test
 
 
 React_Shopping_Cart_Page.js - page objects and methods
+
+
+
 Technical_Exercise_1.js - test script
 
 To run test in vscode terminal: 
